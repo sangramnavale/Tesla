@@ -3,7 +3,7 @@
 Solutions for the coding questions asked in Tesla's assessments till date. Source: LeetCode
 
 
-Note: 🔐 means it is a LeetCode Premium problem. I am adding the description to these problems in the solutions itself
+Note: 🔐 means it is a LeetCode Premium problem. I am adding the description to such problems in the solutions itself.
 
 
 ------------------------------------------------------------------------------------------------------------------------
